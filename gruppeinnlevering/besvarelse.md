@@ -2,12 +2,14 @@
 I Erlings prosjekt med utviklingen av en ny medborgerportal er gode relasjonelle kontrakter viktig for å skape et godt samarbeid fra starten av. Prosjektgruppen består av personer med ulik bakgrunn, kompetanse og erfaring, og flere av dem har sannsynligvis ikke jobbet sammen tidligere. En slik midlertidig organisasjon kan være sårbar for misforståelser, uklarheter og konflikter. Derfor bør prosjektet ha rammer som ikke bare fokuserer på tid, kostnad og kvalitet, men også på hvordan mennesker skal samarbeide.
 
 I forming-fasen er det viktig at Erling er tydelig på hva prosjektet skal oppnå, hvordan arbeidet skal gjennomføres og hva som forventes av hvert enkelt medlem. Roller, ansvar og arbeidsoppgaver bør avklares tidlig slik at gruppen får en felles forståelse av prosjektet. Dette bidrar til å skape normer for samarbeid og reduserer risikoen for konflikter senere i prosjektet.
-
+(Jacobsen, 2016, s. 31-45)
 
 Relasjonelle kontrakter handler om hvordan gruppen skal kommunisere, samarbeide og opptre overfor hverandre. Gruppen må oppleve at de er avhengige av hverandre og arbeider mot et felles mål. Samhold, tillit og engasjement er derfor viktige faktorer. Dersom medlemmene kun fokuserer på sine egne oppgaver, kan det oppstå konflikter mellom ulike interesser. Det er derfor viktig at alle ser helheten i prosjektet og ikke bare sin egen del.
 For å bygge samhold bør prosjektgruppen få mulighet til å bli kjent med hverandre. Morgenmøter, lunsjpauser og annen uformell kontakt kan bidra til å skape et felles referansegrunnlag. Små seiere bør anerkjennes, og gruppen bør få positive tilbakemeldinger når de når delmål. Sosiale aktiviteter utenfor arbeidstid kan også styrke relasjonene i gruppen.
+(Jacobsen, 2016, s. 73-91)
 
 Åpen kommunikasjon er en viktig del av den relasjonelle kontrakten. Det bør være høy takhøyde for spørsmål, innspill og uenighet. Inkludering, respekt og ærlighet gjør det lettere å dele informasjon og ta opp problemer tidlig. Tillit er også avgjørende fordi det reduserer behovet for overvåking og kontroll. Når medlemmene stoler på hverandre, kan de bruke energien på å løse oppgavene i stedet for å kontrollere hverandre.
+
 Relasjonelle kontrakter handler også om forholdet mellom prosjekteier og prosjektleder. Det bør tidlig avklares hvor mye ansvar og myndighet Erling har i prosjektet. Dersom han får tilstrekkelig handlingsrom til å ta beslutninger underveis, vil prosjektet lettere kunne håndtere utfordringer og endringer. Det bør også avklares hvordan rapportering, oppfølging og håndtering av avvik skal foregå.
 
 Selv med gode relasjonelle kontrakter vil det kunne oppstå konflikter. Derfor bør prosjektet etablere proaktive mekanismer for konflikthåndtering. Før prosjektet starter bør Erling legge til grunn at uenigheter kommer til å oppstå. Prosjektet bør derfor ha klare rutiner for hvordan konflikter skal identifiseres, drøftes og avgjøres.
@@ -17,4 +19,5 @@ Konflikter oppstår ofte fordi mennesker har ulik kompetanse, erfaring og syn p�
 Det er også viktig å skille mellom sakskonflikter og personkonflikter. Sakskonflikter handler ofte om oppgaver, ansvar eller mål, mens personkonflikter handler om forholdet mellom mennesker. Personkonflikter kan ofte få størst negative konsekvenser dersom de ikke håndteres. Gruppen bør derfor fokusere på saken og ikke personen.
 
 Dersom det oppstår uenighet, bør partene først forsøke å drøfte saken sammen. Hvis man ikke blir enige, bør prosjektleder bidra til å finne en løsning eller løfte saken videre til prosjekteier. På denne måten får prosjektet en tydelig prosess for å håndtere konflikter før de eskalerer.
+(Jacobsen, 2016, s. 57-70)
 Avslutningsvis bør Erling sørge for både gode relasjonelle kontrakter og tydelige rutiner for konflikthåndtering. Dette skaper tillit, samhold og god kommunikasjon, samtidig som prosjektet får mekanismer for å identifisere, drøfte og løse uenigheter tidlig. Slik øker sannsynligheten for at prosjektet når målene sine innenfor de rammene som er satt
