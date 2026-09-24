@@ -1,3 +1,9 @@
+
+
+
+
+
+## Bygging av tillit og strukturert konflikthåndtering i etablere faser
 I Erlings prosjekt med utviklingen av en ny medborgerportal er gode relasjonelle kontrakter viktig for å skape et godt samarbeid fra starten av. Prosjektgruppen består av personer med ulik bakgrunn, kompetanse og erfaring, og flere av dem har sannsynligvis ikke jobbet sammen tidligere. En slik midlertidig organisasjon kan være sårbar for misforståelser, uklarheter og konflikter. Derfor bør prosjektet ha rammer som ikke bare fokuserer på tid, kostnad og kvalitet, men også på hvordan mennesker skal samarbeide.
 
 I forming-fasen er det viktig at Erling er tydelig på hva prosjektet skal oppnå, hvordan arbeidet skal gjennomføres og hva som forventes av hvert enkelt medlem. Roller, ansvar og arbeidsoppgaver bør avklares tidlig slik at gruppen får en felles forståelse av prosjektet. Dette bidrar til å skape normer for samarbeid og reduserer risikoen for konflikter senere i prosjektet.(Jacobsen, 2016, s. 31-45)
@@ -17,3 +23,52 @@ Det er også viktig å skille mellom sakskonflikter og personkonflikter. Sakskon
 
 Dersom det oppstår uenighet, bør partene først forsøke å drøfte saken sammen. Hvis man ikke blir enige, bør prosjektleder bidra til å finne en løsning eller løfte saken videre til prosjekteier. På denne måten får prosjektet en tydelig prosess for å håndtere konflikter før de eskalerer.(Jacobsen, 2016, s. 57-70)
 Avslutningsvis bør Erling sørge for både gode relasjonelle kontrakter og tydelige rutiner for konflikthåndtering. Dette skaper tillit, samhold og god kommunikasjon, samtidig som prosjektet får mekanismer for å identifisere, drøfte og løse uenigheter tidlig. Slik øker sannsynligheten for at prosjektet når målene sine innenfor de rammene som er satt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Gruppens Egenevaluering
+Å lage gruppekontrakten i starten av semesteret viste seg å være ganske avgjørende for oss. Vi har kanskje ikke sittet og finlest den hver uke, men den ga oss et solid fundament. Spesielt viktig var fokuset på psykologisk trygghet, noe som gjorde det mye lettere å være ærlig om fravær og personlige utfordringer.
+
+##Mål og retningslinjer
+I kontrakten satte vi en arbeidstid fra 08:00 til 16:00, men i praksis skjønte vi fort at vi måtte være mer fleksible. Noen av oss jobber best på kvelden andre i morgen. I tillegg måtte vi ta hensyn til pendling, som for eksempel togreisen mellom Sandnes og Kristiansand, for at timeplanen skulle gå opp. Vi valgte også å droppe strenge formelle møte dokumentering. I stedet tok vi det over Discord og jobbet direkte i delte Word-dokumenter. Dette holdt fremdriften oppe på en mer naturlig måte for oss.
+ 
+##Svakheter og forbedring
+Det vi ikke hadde forutsett, var hvor mye sykdom og ulike livssituasjoner faktisk kom til å påvirke gruppa. For eksempel kan utfordringer med utbrenthet fort gi mye skyldfølelse. I slike situasjoner merket vi at regelen om å si ifra "så snart som mulig" ble litt for uklart ved lengre fravær. Et annet regel var at det å "alltid gjøre sitt beste" er litt vanskelig å måle i praksis. Løsningen vår ble å bryte oppgaver og innleveringer ned i veldig konkrete oppgaver som vi fordelte. Så lenge folk leverte sin del til avtalt tid og frist, unngikk vi konflikter.
+
+##Erfaringer og råd for fremtidig gruppearbeid
+Til neste gang vil vi definitivt råde og avklare forventninger til arbeidsmengde og ambisjoner mye tidligere. Da blir det lettere å justere underveis. Vi trenger også klarere rutiner for hvordan vi oppdaterer hverandre ved lengre sykefravær. På den andre siden ser vi nå verdien av sanksjonssystemet vi la inn. Det å ha strenge regler om advarsler og ekskludering fungerer faktisk som et veldig greit sikkerhetsnett i en stressende universitetsmiljø, slik at ingen bare sluntrer unna. Vi ønsker å ta med oss den høye takhøyden og åpenheten videre, og heller bli flinkere til å spørre om ting tidlig før misforståelser oppstår.
+
+## Litteraturliste
+
+Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.[cite: 1, 2]
+
+---
+
+### Bruk av kunstig intelligens (KI)
+ChatGPT, Gemini og Microsoft Copilot har blitt brukt som hjelpemiddel til idémyldring, utarbeidelse av disposisjon og starthjelp på teksten.
