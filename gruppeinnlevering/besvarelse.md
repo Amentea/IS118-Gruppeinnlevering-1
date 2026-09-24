@@ -3,7 +3,7 @@
 
 
 
-## Bygging av tillit og strukturert konflikthåndtering i etablerte faser
+## Relasjonelle kontrakter og konflikthåndtering i medborgerportalen
 I Erlings prosjekt med utviklingen av en ny medborgerportal er gode relasjonelle kontrakter viktig for å skape et godt samarbeid fra starten av. Prosjektgruppen består av personer med ulik bakgrunn, kompetanse og erfaring, og flere av dem har sannsynligvis ikke jobbet sammen tidligere. En slik midlertidig organisasjon kan være sårbar for misforståelser, uklarheter og konflikter. Derfor bør prosjektet ha rammer som ikke bare fokuserer på tid, kostnad og kvalitet, men også på hvordan mennesker skal samarbeide.
 
 I forming-fasen er det viktig at Erling er tydelig på hva prosjektet skal oppnå, hvordan arbeidet skal gjennomføres og hva som forventes av hvert enkelt medlem. Roller, ansvar og arbeidsoppgaver bør avklares tidlig slik at gruppen får en felles forståelse av prosjektet. Dette bidrar til å skape normer for samarbeid og reduserer risikoen for konflikter senere i prosjektet.(Jacobsen, 2016, s. 31-45)
