@@ -4,7 +4,7 @@ Dette er situasjonen Erling står overfor som leder av utviklingen av en ny digi
 Erling har et begrenset handlingsrom, med 15 måneder fra oppstart til lanseringsdato, og en fastsatt budsjettering på 8 millioner kroner. Situasjonen blir enda mer komplisert ettersom Erling skal lede et tverrfaglig team med representanter fra blant annet IT, kultur, plan og byggesak, politisk ledelse, UX/UI, digital sikkerhet og lokale innbyggergrupper
 
 Jan Ove's del
-##Strategi for rekruttering og sammensetning:
+## Strategi for rekruttering og sammensetning:
 Forming fasen av dette tverrfaglige og tidsavgrensede prosjektet understreker viktigheten av
 rekruttering av riktig kompetanse, for å kunne etablere et team som fungerer både faglig,
 sosialt og kan levere resultater. Dette gjør det viktig for Erling og ikke nødvendigvis bare se
@@ -19,8 +19,10 @@ om hvordan Erling legger grunnlaget for hvordan prosjektgruppen utvikler seg til
 team. En godt gjennomtenkt rekrutteringsstrategi bør balansere funksjonelt mangfold og
 sosial kompatibilitet. Dette gjør at gruppen får nødvendig bredde uten at samarbeid svekkes i
 starten av prosjektet.
-##PAIE
+
+## PAIE
 For å lage et hensiktsmessig rammeverk for å sikre et velfungerende mangfold er PAIEmodellen et godt grunnlag å bruke. Modellen identifiserer fire sentrale roller i prosjektet.
+
 Produksjon, Administrasjon, Integrasjon og Entreprenørskap. Produksjon handler om personer
 som har den nødvendige faglige kompetansen til å ferdigstille oppgaver, mens administrasjon
 handler om å skape struktur, systemer og oversikt. Integrasjon handler i mye større grad om
@@ -28,7 +30,8 @@ det sosiale i teamet, og det å skape gode relasjoner og en sterk sosial arena. 
 innebærer å tenke nytt og å kunne stille de kritiske spørsmålene. (Jacobsen, 2016, s. 33) I
 Erlings prosjekt vil det være essensielt at disse funksjonene er representert. Et prosjekt
 bestående av sterke fagpersoner vil ikke nødvendigvis fungere godt dersom teamet mangler
-personer som skaper struktur eller bidrar til sosiale relasjoner. PAIE modellen kan derfor bidra
+personer som skaper struktur eller bidrar til sosiale relasjoner. 
+PAIE modellen kan derfor bidra
 sterkt til å få Erling til å tenke bredere enn kun faglig kompetanse når prosjektgruppen settes
 sammen
 Mangfold og sosial likhet
@@ -42,6 +45,7 @@ teammedlemmene å finne fellesinteresser og bygge relasjoner tidlig i prosjektet
 prøve å finne en balanse mellom faglig, funksjonelt mangfold og sosial kompatibilitet. På
 denne måten kan prosjektet få fordelene av ulike perspektiver, samtidig som det legges til
 rette for tillit og samarbeid.
+
 Design av det første møtet
 Det første møtet er en essensiell del av formingfasen fordi det er her teammedlemmene møtes
 som en samlet prosjektgruppe for første gang. Møtet burde derfor ikke bare brukes til å
@@ -66,7 +70,9 @@ har jobbet sammen tidligere.
 
 ### Det tverrfaglige teamet
 Det tverrfaglige teamet 
-Erlings prosjektgruppe kan være en styrke og en utfordring for dette prosjektet. Et såpass tverrfaglig team gir muligheten for at prosjektet kan få kompetanse og perspektiver fra forskjellige fagområder. IT-avdelingen og eksperten på digital sikkerhet kan bidra med teknisk kompetanse, mens UX/UI designeren og brukerrepresentantene kan bidra med et større fokus på innbyggernes behov og brukervennlighet. Samtidig kan de ulike faglige bakgrunnene føre til forskjeller i prioriteringer og oppfatninger av hvordan prosjektet skal gjennomføres. Det som er viktig for en IT-utvikler er ikke nødvendigvis det samme som en brukerrepresentant eller en politisk rådgiver. Dette stiller store krav til Erling som prosjektleder, spesielt når det kommer til kommunikasjon, rolleavklaring og å skape en felles forståelse av prosjektets hovedmål. Dersom dette etableres tidlig i oppstartsfasen, tillater dette at ulikhetene i teamet brukes som en styrke, og ikke en kilde til misforståelser og konflikter.
+Erlings prosjektgruppe kan være en styrke og en utfordring for dette prosjektet. Et såpass tverrfaglig team gir muligheten for at prosjektet kan få kompetanse og perspektiver fra forskjellige fagområder. 
+IT-avdelingen og eksperten på digital sikkerhet kan bidra med teknisk kompetanse, mens UX/UI designeren og brukerrepresentantene kan bidra med et større fokus på innbyggernes behov og brukervennlighet. Samtidig kan de ulike faglige bakgrunnene føre til forskjeller i prioriteringer og oppfatninger av hvordan prosjektet skal gjennomføres. 
+Det som er viktig for en IT-utvikler er ikke nødvendigvis det samme som en brukerrepresentant eller en politisk rådgiver. Dette stiller store krav til Erling som prosjektleder, spesielt når det kommer til kommunikasjon, rolleavklaring og å skape en felles forståelse av prosjektets hovedmål. Dersom dette etableres tidlig i oppstartsfasen, tillater dette at ulikhetene i teamet brukes som en styrke, og ikke en kilde til misforståelser og konflikter.
 
 I tillegg skaper tidsrammen og budsjettet klare begrensninger for prosjektet. Erling har 15 måneder og 8 millioner kroner til bruk, noe som gjør det viktig at prosjektgruppen arbeider strukturert og bruker ressursene effektivt. Problemer som oppstår tidlig i prosjektet kan derfor få konsekvenser for både fremdrift og ressursbruk.
 
