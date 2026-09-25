@@ -155,9 +155,11 @@ Til neste gang vil vi definitivt råde og avklare forventninger til arbeidsmengd
 ## Litteraturliste
 
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.[cite: 1, 2]
-
 Peik Gjøsund, & Roar Huseby. (2015). To eller flere basiskunnskaper i gruppepsykologi. Oslo Cappelen Damm Akademisk.
+
+
 ---
+
 
 ### Bruk av kunstig intelligens (KI)
 ChatGPT, Gemini og Microsoft Copilot har blitt brukt som hjelpemiddel til idémyldring, utarbeidelse av disposisjon og starthjelp på teksten.
