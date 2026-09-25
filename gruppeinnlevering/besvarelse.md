@@ -1,7 +1,68 @@
-## Innledning
+# Innledning
 Digitale utviklingsprosjekter krever ofte at mennesker innenfor ulike fagområder, og ulik kompetanse samarbeider om et felles mål.
 Dette er situasjonen Erling står overfor som leder av utviklingen av en ny digital medborgerportal i en norsk kommune. Prosjektet innebærer ikke bare en teknisk løsning, men skal også legge til rette for større innbyggerengasjement og transparens i kommunens arbeid. Derfor er det essensielt at ulike faglige perspektiver fungerer sammen gjennom hele prosjektet for et gunstig resultat.
 Erling har et begrenset handlingsrom, med 15 måneder fra oppstart til lanseringsdato, og en fastsatt budsjettering på 8 millioner kroner. Situasjonen blir enda mer komplisert ettersom Erling skal lede et tverrfaglig team med representanter fra blant annet IT, kultur, plan og byggesak, politisk ledelse, UX/UI, digital sikkerhet og lokale innbyggergrupper
+
+Jan Ove's del
+##Strategi for rekruttering og sammensetning:
+Forming fasen av dette tverrfaglige og tidsavgrensede prosjektet understreker viktigheten av
+rekruttering av riktig kompetanse, for å kunne etablere et team som fungerer både faglig,
+sosialt og kan levere resultater. Dette gjør det viktig for Erling og ikke nødvendigvis bare se
+på teammedlemmenes faglige kompetanse, men også hvilke personer som egner seg til å
+arbeide sammen. Ettersom prosjektet skal bestå av mennesker fra flere ulike fagområder, vil
+egenskaper som samarbeidsevne og kommunikasjon være viktig i sammensetningen av
+teamet. (Jacobsen, 2016, s. 32) I denne fasen bemannes prosjektet og medarbeiderne treffer
+hverandre for første gang. Mye av det som skjer i prosjektets første fase danner grunnlaget for
+hvor godt relasjoner vil fungere senere i prosjektet.
+I denne fasen dreier det seg først og fremst på hvordan prosjektet bemannes. Det dreier seg
+om hvordan Erling legger grunnlaget for hvordan prosjektgruppen utvikler seg til et prosjekt
+team. En godt gjennomtenkt rekrutteringsstrategi bør balansere funksjonelt mangfold og
+sosial kompatibilitet. Dette gjør at gruppen får nødvendig bredde uten at samarbeid svekkes i
+starten av prosjektet.
+##PAIE
+For å lage et hensiktsmessig rammeverk for å sikre et velfungerende mangfold er PAIEmodellen et godt grunnlag å bruke. Modellen identifiserer fire sentrale roller i prosjektet.
+Produksjon, Administrasjon, Integrasjon og Entreprenørskap. Produksjon handler om personer
+som har den nødvendige faglige kompetansen til å ferdigstille oppgaver, mens administrasjon
+handler om å skape struktur, systemer og oversikt. Integrasjon handler i mye større grad om
+det sosiale i teamet, og det å skape gode relasjoner og en sterk sosial arena. Entreprenør
+innebærer å tenke nytt og å kunne stille de kritiske spørsmålene. (Jacobsen, 2016, s. 33) I
+Erlings prosjekt vil det være essensielt at disse funksjonene er representert. Et prosjekt
+bestående av sterke fagpersoner vil ikke nødvendigvis fungere godt dersom teamet mangler
+personer som skaper struktur eller bidrar til sosiale relasjoner. PAIE modellen kan derfor bidra
+sterkt til å få Erling til å tenke bredere enn kun faglig kompetanse når prosjektgruppen settes
+sammen
+Mangfold og sosial likhet
+Et tverrfaglig prosjekt som Erlings har behov for mangfold for å sikre ulike perspektiver,
+erfaringer og kompetanse. Dette kan være en stor styrke når prosjektet skal utvikle nye
+løsninger og løse komplekse problemer. Samtidig kan et veldig heterogent team skape
+utfordringer dersom forskjellene mellom teammedlemmene gjør det vanskelig å etablere sterk
+tillit og gode relasjoner. En viss grad av sosial likhet kan gjøre det lettere for
+teammedlemmene å finne fellesinteresser og bygge relasjoner tidlig i prosjektet (Jacobsen,
+2016, s. 35-36) Erling bør derfor ikke tenke for mye på størst mulig mangfold, men heller
+prøve å finne en balanse mellom faglig, funksjonelt mangfold og sosial kompatibilitet. På
+denne måten kan prosjektet få fordelene av ulike perspektiver, samtidig som det legges til
+rette for tillit og samarbeid.
+Design av det første møtet
+Det første møtet er en essensiell del av formingfasen fordi det er her teammedlemmene møtes
+som en samlet prosjektgruppe for første gang. Møtet burde derfor ikke bare brukes til å
+presentere arbeidsoppgaver, men også for å skape en felles forståelse av prosjektet og gjøre
+det mulig å etablere gode sosiale relasjoner i gruppen. For Erling vil dette være spesielt viktig
+ettersom teamet består av personer med ulike faglige bakgrunner og perspektiver (Jacobsen,
+2016, s. 37-39)
+Erling bør hovedsakelig starte møtet med å presentere prosjektets mål og nettopp hva
+medborgerportalen skal oppnå. Videre bør alle teammedlemmene få muligheten til å diskutere
+målene og komme med egne perspektiver. Når det er blitt etablert en felles forståelse av
+målene, bør møtet brukes til å avklare roller, ansvar og arbeidsfordeling. Det burde komme
+tydelig frem hva som forventes av hvert enkelt medlem, samtidig som de får muligheten til å
+uttrykke egne forventninger til prosjektet og samarbeidet.
+I tillegg til den faglige delen av møtet bør Erling sette av tid til det som heter pseudo-arbeid.
+Pseudo-arbeid kan forklares som aktiviteter eller samtaler som ikke nødvendigvis gir et
+resultat til prosjektet. Pseudo-arbeid gir kanskje ikke et direkte resultat, men det kan fortsatt
+være gunstig for gruppen å ha slike aktiviteter/samtaler (Jacobsen, 2016, s 37-39). Dette kan
+bidra til gode sosiale relasjoner i gruppen, hjelpe med å bli kjent og kanskje også bidra til å
+finne felles interesser med teammedlemmene. Dette kan være spesielt nyttig for Erlings
+prosjekt siden teammedlemmene kommer fra forskjellige fagområder, og ikke nødvendigvis
+har jobbet sammen tidligere. 
 
 ### Det tverrfaglige teamet
 Det tverrfaglige teamet 
