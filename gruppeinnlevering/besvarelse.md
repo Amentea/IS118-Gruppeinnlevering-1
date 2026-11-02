@@ -112,7 +112,7 @@ Nå, for å spesifisere hva Erling må gjøre som prosjektleder når han lager p
 ## Sikring av god kommunikasjon
 Det er opp til prosjektleder Erling å etablere, koble sammen og sørge for nødvendig kommunikasjon og informasjon til sine ansatte. Det som må etableres er hvilket kommunikasjonssystem som skal brukes (Zoom, Discord osv.). Han skal tydelig definere hvilke kanaler som skal brukes til hva. Tydelig kommunikasjon mellom de ansatte vil sikre at ingen jobber med gammel eller utdatert informasjon. Et godt strukturert kommunikasjonssystem kan også bidra til å øke moralen til de ansatte og gratulere dem med en vellykket ferdig fase av planen. Ha regelmessige team- og individuelle møter med alle, løs tvister og ulike ideer på arbeidsplassen. Definer tydelig hvem som har hvilket ansvar i oppgaven, og sørg for at alle bidrar med noe. Ingen liker å være den personen som ikke bidrar med noe, og du liker ikke å betale folk som ikke er gunstige for ditt oppdrag, mål eller prosjekt. Oppmuntre til konstruktiv kritikk av hverandre, selv om noen har en klage på måten en prosjektleder veileder hele gruppen på. Oppfordre også folk til å varsle så tidlig som mulig om et problem de har lagt merke til. Gi regelmessige oppdateringer og avklaringer om planen.
 
-## Oppsumering og kunklusjon 
+## Oppsumering og konklusjon 
 Oppstartspakken viser at en vellykket gjennomføring av Erlings prosjekt avhenger av flere faktorer som fungerer sammen. Dersom det er en god sammensetning av teamet og et godt første møte kan dette legge grunnlaget for gode relasjoner og en felles forståelse av prosjektets mål. Senere vil det være viktig med gode rammer for samarbeid og konflikthåndtering så uenigheter blir møtt tidlig før de utvikler seg til større problemer. Samtidig må Erling balansere behovet for en tydelig plan med muligheten til å gjøre endringer dersom det oppstår utfordringer underveis. God og regelmessig kommunikasjon blir essensiell for å sikre at teammedlemmene har nødvendig informasjon, og kan samarbeide effektivt. Alle disse tiltakene må derfor ses i sammenheng gjennom hele prosjektet. Med tidsrammen på 15 måneder og en budsjettering på 8 millioner kroner kan en godt gjennomført formingfase gi Erling og de andre teammedlemmene et bedre grunnlag for å gjennomføre prosjektet og nå målene med medborgerportalen 
 
 
@@ -161,3 +161,4 @@ Peik Gjøsund, & Roar Huseby. (2015). To eller flere basiskunnskaper i gruppepsy
 
 ### Bruk av kunstig intelligens (KI)
 ChatGPT, Gemini og Microsoft Copilot har blitt brukt som hjelpemiddel til idémyldring, utarbeidelse av disposisjon og starthjelp på teksten.
+
